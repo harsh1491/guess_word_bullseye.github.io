@@ -23,7 +23,6 @@ Eg: A precious greyish-white metal » Silver
 
 <!--- C R E D I T S   A N D   I N F O --->
 
-## ╔═━「 Creator Info 」
 
-+ [Rachit-Pal](https://github.com/Rachit-Pal) : CREATOR
-+ [Straw Hat](https://github.com/StrawhatNetwork) : NETWORK
+
+
